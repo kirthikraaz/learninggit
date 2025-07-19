@@ -1,1 +1,9 @@
 This is for my practice
+
+After I modify this test 3 , I have to do
+
+git add test3.txt -> for modifing the changes and upload in Staging Areas
+
+git commit -m "modifing test3" -> It helps us to upload the file in  local repositiory
+
+git push origin main
