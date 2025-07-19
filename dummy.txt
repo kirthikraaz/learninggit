@@ -1,0 +1,6 @@
+git pull 
+
+
+
+This helps us to pull all the files from remote repository to local repository
+  
